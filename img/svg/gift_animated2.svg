@@ -1,0 +1,169 @@
+<svg version="1.1" id="B1oSi4dCM" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 480 480" style="enable-background:new -57 180.9 480 480;" xml:space="preserve"><style type="text/css">@-webkit-keyframes ByMiSsVOCz_ByCM24ORM_Animation {
+    8.33% {
+        -webkit-transform: rotate(10deg);
+                transform: rotate(10deg)
+    }
+    16.67% {
+        -webkit-transform: rotate(-10deg);
+                transform: rotate(-10deg)
+    }
+    23.33% {
+        -webkit-transform: rotate(5deg);
+                transform: rotate(5deg)
+    }
+    26.67% {
+        -webkit-transform: rotate(-5deg);
+                transform: rotate(-5deg)
+    }
+    30% {
+        -webkit-transform: rotate(0deg);
+                transform: rotate(0deg)
+    }
+    0% {
+        -webkit-transform: rotate(10deg);
+                transform: rotate(10deg)
+    }
+    100% {
+        -webkit-transform: rotate(0deg);
+                transform: rotate(0deg)
+    }
+}
+@keyframes ByMiSsVOCz_ByCM24ORM_Animation {
+    8.33% {
+        -webkit-transform: rotate(10deg);
+                transform: rotate(10deg)
+    }
+    16.67% {
+        -webkit-transform: rotate(-10deg);
+                transform: rotate(-10deg)
+    }
+    23.33% {
+        -webkit-transform: rotate(5deg);
+                transform: rotate(5deg)
+    }
+    26.67% {
+        -webkit-transform: rotate(-5deg);
+                transform: rotate(-5deg)
+    }
+    30% {
+        -webkit-transform: rotate(0deg);
+                transform: rotate(0deg)
+    }
+    0% {
+        -webkit-transform: rotate(10deg);
+                transform: rotate(10deg)
+    }
+    100% {
+        -webkit-transform: rotate(0deg);
+                transform: rotate(0deg)
+    }
+}
+@-webkit-keyframes ByMiSsVOCz_B1VUjE_Rz_Animation {
+    0% {
+        -webkit-transform: translate(50px, -650px);
+                transform: translate(50px, -650px)
+    }
+    8.33% {
+        -webkit-transform: translate(50px, -170px);
+                transform: translate(50px, -170px)
+    }
+    13.33% {
+        -webkit-transform: translate(50px, -190px);
+                transform: translate(50px, -190px)
+    }
+    20% {
+        -webkit-transform: translate(50px, -180px);
+                transform: translate(50px, -180px)
+    }
+    25% {
+        -webkit-transform: translate(50px, -180px);
+                transform: translate(50px, -180px)
+    }
+    28.33% {
+        -webkit-transform: translate(50px, -170px);
+                transform: translate(50px, -170px)
+    }
+    100% {
+        -webkit-transform: translate(50px, -170px);
+                transform: translate(50px, -170px)
+    }
+}
+@keyframes ByMiSsVOCz_B1VUjE_Rz_Animation {
+    0% {
+        -webkit-transform: translate(50px, -650px);
+                transform: translate(50px, -650px)
+    }
+    8.33% {
+        -webkit-transform: translate(50px, -170px);
+                transform: translate(50px, -170px)
+    }
+    13.33% {
+        -webkit-transform: translate(50px, -190px);
+                transform: translate(50px, -190px)
+    }
+    20% {
+        -webkit-transform: translate(50px, -180px);
+                transform: translate(50px, -180px)
+    }
+    25% {
+        -webkit-transform: translate(50px, -180px);
+                transform: translate(50px, -180px)
+    }
+    28.33% {
+        -webkit-transform: translate(50px, -170px);
+                transform: translate(50px, -170px)
+    }
+    100% {
+        -webkit-transform: translate(50px, -170px);
+                transform: translate(50px, -170px)
+    }
+}
+#B1oSi4dCM * {
+    -webkit-animation-duration: 6s;
+            animation-duration: 6s;
+    -webkit-animation-iteration-count: infinite;
+            animation-iteration-count: infinite;
+    -webkit-animation-timing-function: cubic-bezier(0, 0, 1, 1);
+            animation-timing-function: cubic-bezier(0, 0, 1, 1)
+}
+#ByMiSsVOCz_B1VUjE_Rz {
+    -webkit-animation-name: ByMiSsVOCz_B1VUjE_Rz_Animation;
+            animation-name: ByMiSsVOCz_B1VUjE_Rz_Animation;
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+    transform-box: fill-box;
+    -webkit-transform: translate(50px, -650px);
+            transform: translate(50px, -650px)
+}
+#ByMiSsVOCz_ByCM24ORM {
+    -webkit-animation-name: ByMiSsVOCz_ByCM24ORM_Animation;
+            animation-name: ByMiSsVOCz_ByCM24ORM_Animation;
+    -webkit-transform-origin: 50% 50%;
+            transform-origin: 50% 50%;
+    transform-box: fill-box;
+    -webkit-transform: rotate(10deg);
+            transform: rotate(10deg)
+}</style><style/>
+<g id="BkloHoEdCG">
+	<g id="H1biHoEuAz">
+		<g id="ByMiSsVOCz_B1VUjE_Rz" data-animator-group="true" data-animator-type="0"><g id="ByMiSsVOCz_ByCM24ORM" data-animator-group="true" data-animator-type="1"><path d="M347.4,307.5h-71.1c5.4-6,8.7-14,8.7-22.7c0-18.8-15.3-34-34-34h-39.7c-11.8,0-22.2,6.1-28.3,15.3
+			c-6.1-9.2-16.5-15.3-28.3-15.3H115c-18.8,0-34,15.3-34,34c0,8.7,3.3,16.7,8.7,22.7H18.6c-3.1,0-5.7,2.5-5.7,5.7v62.4
+			c0,3.1,2.5,5.7,5.7,5.7h5.7v181.4c0,15.6,12.7,28.3,28.3,28.3H149h68h96.4c15.6,0,28.3-12.7,28.3-28.3V381.2h5.7
+			c3.1,0,5.7-2.5,5.7-5.7v-62.4C353.1,310,350.5,307.5,347.4,307.5z M183,318.8h3.3l-31.7,31.7v-31.7H183z M29.9,369.9h-5.7v-51H115
+			h10.8c-20.7,12.7-37.5,30.3-49.2,51H29.9z M126.6,331.7c-14.9,22.8-23,49.4-23,77.3v26.6l-13-13c-1.1-1.1-2.6-1.7-4-1.7
+			s-2.9,0.6-4,1.7l-12.9,12.9C70.9,393.6,92.4,354.9,126.6,331.7z M143.3,579.6H52.6c-9.4,0-17-7.6-17-17V381.2h35.2
+			c-8.1,17.9-12.5,37.6-12.5,57.9v10.1c0,2.3,1.4,4.4,3.5,5.2c2.1,0.9,4.6,0.4,6.2-1.2l18.7-18.7l18.7,18.7c1.1,1.1,2.5,1.7,4,1.7
+			c0.7,0,1.5-0.1,2.2-0.4c2.1-0.9,3.5-2.9,3.5-5.2V409c0-9.5,1.1-18.7,3.1-27.8h25.3V579.6z M143.3,369.9H121
+			c4.8-15.1,12.3-29.2,22.3-41.8V369.9z M115,307.5c-12.5,0-22.7-10.2-22.7-22.7c0-12.5,10.2-22.7,22.7-22.7h39.7
+			c12.5,0,22.7,10.2,22.7,22.7v22.7H149H115z M211.3,579.6h-14.7l14.7-14.7V579.6z M211.3,548.9l-30.7,30.7h-26v-9l56.7-56.7V548.9z
+			 M211.3,497.9l-56.7,56.7v-18l56.7-56.7V497.9z M211.3,463.9l-56.7,56.7v-35l56.7-56.7V463.9z M211.3,412.9l-56.7,56.7v-18
+			l56.7-56.7V412.9z M211.3,378.9l-56.7,56.7v-35l56.7-56.7V378.9z M211.3,327.8l-56.7,56.7v-18l47.7-47.7h9V327.8z M188.7,307.5
+			v-22.7c0-12.5,10.2-22.7,22.7-22.7H251c12.5,0,22.7,10.2,22.7,22.7c0,12.5-10.2,22.7-22.7,22.7h-34H188.7z M239.4,331.7
+			c34.2,23.2,55.8,61.9,56.9,103.8l-12.9-12.9c-2.2-2.2-5.8-2.2-8,0l-13,13V409C262.4,381.1,254.3,354.5,239.4,331.7z M245,369.9
+			h-22.3v-41.8C232.7,340.6,240.2,354.8,245,369.9z M330.4,562.6c0,9.4-7.6,17-17,17h-90.7V381.2H248c2,9,3.1,18.3,3.1,27.8v40.3
+			c0,2.3,1.4,4.4,3.5,5.2c2.1,0.9,4.6,0.4,6.2-1.2l18.7-18.7l18.7,18.7c1.1,1.1,2.5,1.7,4,1.7c0.7,0,1.5-0.1,2.2-0.4
+			c2.1-0.9,3.5-2.9,3.5-5.2v-10.1c0-20.3-4.4-40-12.5-57.9h35.2V562.6z M341.7,369.9h-5.7h-46.7c-11.7-20.7-28.5-38.3-49.2-51H251
+			h90.7V369.9z" id="ByMiSsVOCz"/></g></g>
+	</g>
+</g>
+<script>(function(){var a=document.querySelector('#B1oSi4dCM'),b=a.querySelectorAll('style'),c=function(d){b.forEach(function(f){var g=f.textContent;g&amp;&amp;(f.textContent=g.replace(/transform-box:[^;\r\n]*/gi,'transform-box: '+d))})};c('initial'),window.requestAnimationFrame(function(){return c('fill-box')})})();</script></svg>
