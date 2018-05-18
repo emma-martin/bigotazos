@@ -412,9 +412,16 @@ left: 50%;
 
 /* ------------------ ASIDE gato ------------------*/
 
-#hipsterCat {
+aside {
     height: 200px;
-    background: rgba(0,0,0,0) url("../img/background/prueba.gif") no-repeat fixed center / cover;
+}
+
+#hipsterCat {
+    background: rgba(0,0,0,0) url("../img/background/aside1.gif") no-repeat fixed center / cover;
+}
+
+#showerCat {
+    background: rgba(0,0,0,0) url("../img/background/aside2.gif") no-repeat fixed center / cover;
 }
 
 .over {
@@ -778,7 +785,7 @@ footer .boton {
 
     /* ASIDE */
 
-    #hipsterCat {
+    aside {
         height: 100px;
     }
 
