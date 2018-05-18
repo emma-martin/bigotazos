@@ -735,6 +735,12 @@ footer .boton {
 
     }
 
+    /* ASIDE */
+
+    #hipsterCat {
+        height: 100px;
+    }
+
     #ces #gato-animado {
         width: 60%;
     }

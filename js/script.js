@@ -69,7 +69,7 @@ $(document).ready(function(){
 $(document).ready(function(){
 
 	new TypeIt('#escritura', {
-	    strings: [" O dos.", " Acoge.", " Adopta.", "Antes hazte las pruebas de la alergia."],
+	    strings: [" O dos.", " Acoge.", " Adopta."],
 	    speed: 150,
 	    breakLines: false,
 	    autoStart: false,
